@@ -18,7 +18,8 @@ body {
 
 h1 {
   font-family: "Courier Prime", monospace;
-  font-style: italic;
+  font-style: "italic";
+  font-size: 25px;
 }
 
 h2 {
